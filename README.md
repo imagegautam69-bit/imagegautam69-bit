@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**imagegautam69-bit/imagegautam69-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**imagegautam69-bit/imagegautam69-bit** is a ✨ _special_ ✨ repository because its `image-69` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
